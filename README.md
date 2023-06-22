@@ -6,3 +6,5 @@
 实验网址：<http://os.guojunhit.cn/index.html>
 
 本学期只需要完成前五个实验
+
+开卷考试 ~~（建议ppt配合英汉大词典使用）~~
