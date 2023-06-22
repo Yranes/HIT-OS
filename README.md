@@ -3,5 +3,6 @@
 
 授课老师：刘国军
 
-实验指导网址：<http://os.guojunhit.cn/index.html>
+实验网址：<http://os.guojunhit.cn/index.html>
 
+本学期只需要完成前五个实验
